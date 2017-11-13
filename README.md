@@ -7,9 +7,13 @@ newly proposed methods significantly boom the application of AFS theory. Due to 
 If you find WSS useful in your research, please consider to cite our paper:
 
 @book{Liu2009Axiomatic,
+
   title={Axiomatic Fuzzy Set Theory and Its Applications},
+  
   author={Liu, Xiaodong and Pedrycz, Witold},
+  
   publisher={Springer Berlin Heidelberg},
+  
   year={2009},
 }
 
