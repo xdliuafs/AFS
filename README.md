@@ -1,10 +1,7 @@
 # AFS: an open source toolkit of Axiomatic Fuzzy Sets theory
 
-Over the past few years, there has been an increased interest in automatic facial behavior analysis and understanding. We present OpenFace – an open source tool intended for computer vision and machine learning researchers, affective computing community and people interested in building interactive applications based on facial behavior analysis. OpenFace is the ﬁrst open source tool capable of facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. The computer vision algorithms which represent the core of OpenFace demonstrate state-of-the-art results in all of the above mentioned tasks. Furthermore, our tool is capable of real-time performance and is able to run from a simple webcam without any specialist hardware.
-
-The code was written mainly by Tadas Baltrusaitis during his time at the Language Technologies Institute at the Carnegie Mellon University; Computer Laboratory, University of Cambridge; and Institute for Creative Technologies, University of Southern California.
-
-Special thanks goes to Louis-Philippe Morency and his MultiComp Lab at Institute for Creative Technologies for help in writing and testing the code, and Erroll Wood for the gaze estimation work.
+Axiomatic Fuzzy Sets (AFS) theory facilitates a significant step on how to convert the information in the observed data into fuzzy sets (membership functions) and implement their fuzzy logic operations, which offers a far more flexible and powerful tool for representing human knowledge and emulating the human recognition process. AFS theory has gained increasing interest from various research fields recently. AFS has been extended for formal concept analysis, rough set, clustering, classification and other learning tasks. These
+newly proposed methods significantly boom the application of AFS theory. Due to its unique characteristic in semantic representation, AFS theory has been applied in many domains, such as business intelligence, computer vision, financial analysis, and clinical data analysis.
 
 ## WIKI
 **For instructions of how to install/compile/use the project please see [WIKI](https://github.com/TadasBaltrusaitis/OpenFace/wiki)**
