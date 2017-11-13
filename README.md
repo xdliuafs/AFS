@@ -6,16 +6,16 @@ newly proposed methods significantly boom the application of AFS theory. Due to 
 ## Citation
 If you find WSS useful in your research, please consider to cite our paper:
 
-@book{Liu2009Axiomatic,
+    @book{Liu2009Axiomatic,
 
-  title={Axiomatic Fuzzy Set Theory and Its Applications},
+      title={Axiomatic Fuzzy Set Theory and Its Applications},
   
-  author={Liu, Xiaodong and Pedrycz, Witold},
+      author={Liu, Xiaodong and Pedrycz, Witold},
   
-  publisher={Springer Berlin Heidelberg},
+      publisher={Springer Berlin Heidelberg},
   
-  year={2009},
-}
+      year={2009},
+    }
 
 ## WIKI
 **For instructions of how to install/compile/use the project please see [WIKI](https://github.com/TadasBaltrusaitis/OpenFace/wiki)**
