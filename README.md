@@ -3,8 +3,11 @@
 Axiomatic Fuzzy Sets (AFS) theory facilitates a significant step on how to convert the information in the observed data into fuzzy sets (membership functions) and implement their fuzzy logic operations, which offers a far more flexible and powerful tool for representing human knowledge and emulating the human recognition process. AFS theory has gained increasing interest from various research fields recently. AFS has been extended for formal concept analysis, rough set, clustering, classification and other learning tasks. These
 newly proposed methods significantly boom the application of AFS theory. Due to its unique characteristic in semantic representation, AFS theory has been applied in many domains, such as business intelligence, computer vision, financial analysis, and clinical data analysis.
 
+## How to use
+The code is implemented by Matlab. The Java and Python version of AFS is developing. We will publish that in the future. How to use this code can be found in "AFSBasicFunction_Help.pdf".
+
 ## Citation
-If you find WSS useful in your research, please consider to cite our paper:
+If you find AFS useful in your research, please consider to cite our paper:
 
     @book{Liu2009Axiomatic,
 
@@ -17,7 +20,7 @@ If you find WSS useful in your research, please consider to cite our paper:
       year={2009},
     }
 
-## WIKI
+## Licence
 **For instructions of how to install/compile/use the project please see [WIKI](https://github.com/TadasBaltrusaitis/OpenFace/wiki)**
 
 More details about the project - http://www.cl.cam.ac.uk/research/rainbow/projects/openface/
